@@ -215,3 +215,261 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+
+
+.gadesktop-container {
+  position: relative;
+  
+}
+
+.gadesktop-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gadesktop-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.gadesktop-container:hover .gadesktop-overlay {
+  opacity: 1;
+}
+
+.gadesktop-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.ga-ad-container {
+  position: relative;
+  
+}
+
+.ga-ad-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.ga-ad-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.ga-ad-container:hover .ga-ad-overlay {
+  opacity: 1;
+}
+
+.ga-ad-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.quoth-container {
+  position: relative;
+  
+}
+
+.quoth-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.quoth-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.quoth-container:hover .quoth-overlay {
+  opacity: 1;
+}
+
+.quoth-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.blackjack-container {
+  position: relative;
+  
+}
+
+.blackjack-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.blackjack-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.blackjack-container:hover .blackjack-overlay {
+  opacity: 1;
+}
+
+.blackjack-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.javier-container {
+  position: relative;
+  
+}
+
+.javier-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.javier-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.javier-container:hover .javier-overlay {
+  opacity: 1;
+}
+
+.javier-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.jeremiah-container {
+  position: relative;
+  
+}
+
+.jeremiah-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.jeremiah-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.jeremiah-container:hover .jeremiah-overlay {
+  opacity: 1;
+}
+
+.jeremiah-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

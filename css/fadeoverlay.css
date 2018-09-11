@@ -473,3 +473,176 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+
+
+.referee-container {
+  position: relative;
+  
+}
+
+.referee-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.referee-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.referee-container:hover .referee-overlay {
+  opacity: 1;
+}
+
+.referee-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.dbi1-container {
+  position: relative;
+  
+}
+
+.dbi1-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.dbi1-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.dbi1-container:hover .dbi1-overlay {
+  opacity: 1;
+}
+
+.dbi1-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+
+.dbi2-container {
+  position: relative;
+  
+}
+
+.dbi2-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.dbi2-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.dbi2-container:hover .dbi2-overlay {
+  opacity: 1;
+}
+
+.dbi2-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.poetrygen-container {
+  position: relative;
+  
+}
+
+.poetrygen-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.poetrygen-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.poetrygen-container:hover .poetrygen-overlay {
+  opacity: 1;
+}
+
+.poetrygen-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

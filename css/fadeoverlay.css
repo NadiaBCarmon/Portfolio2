@@ -688,3 +688,218 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+
+.josh-container {
+  position: relative;
+  
+}
+
+.josh-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.josh-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.josh-container:hover .josh-overlay {
+  opacity: 1;
+}
+
+.josh-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.keith-container {
+  position: relative;
+  
+}
+
+.keith-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.keith-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.keith-container:hover .keith-overlay {
+  opacity: 1;
+}
+
+.keith-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.javier-container {
+  position: relative;
+  
+}
+
+.javier-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.javier-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.javier-container:hover .javier-overlay {
+  opacity: 1;
+}
+
+.javier-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.jorgen-container {
+  position: relative;
+  
+}
+
+.jorgen-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.jorgen-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.jorgen-container:hover .jorgen-overlay {
+  opacity: 1;
+}
+
+.jorgen-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+.thagata-container {
+  position: relative;
+  
+}
+
+.thagata-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.thagata-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: black;
+}
+
+.thagata-container:hover .thagata-overlay {
+  opacity: 1;
+}
+
+.thagata-text {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
